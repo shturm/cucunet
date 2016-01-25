@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Cucunet/Cucunet.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cucunet/CucunetStatus.cs">
+    <Files>
+      <File FileName="Cucunet.Tests/SystemFixture.cs" Line="14" Column="9" />
+      <File FileName="Cucunet/Program.cs" Line="14" Column="1" />
+      <File FileName="Cucunet/ConsoleFormatter.cs" Line="12" Column="10" />
+      <File FileName="Cucunet/CucunetStatus.cs" Line="13" Column="38" />
+      <File FileName="Cucunet/IOutputFormatter.cs" Line="11" Column="24" />
+      <File FileName="Cucunet/App.cs" Line="24" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Cucunet" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

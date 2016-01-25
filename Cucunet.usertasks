@@ -1,0 +1,8 @@
+<ListOfTask>
+  <Task file="" description="Steps should be global" />
+  <Task file="" description="StepMethods should take arguments" />
+  <Task file="" description="GetStepMethod should use regex" />
+  <Task file="" description="System: should run all steps for all features" completed="True" />
+  <Task file="" description="Handle StepDefinitionNotFound" />
+  <Task file="" description="Formatters" />
+</ListOfTask>

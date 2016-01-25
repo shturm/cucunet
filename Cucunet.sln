@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cucunet", "Cucunet\Cucunet.csproj", "{27273756-49C6-45F5-8BD9-3091533BCA2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cucunet.Tests", "Cucunet.Tests\Cucunet.Tests.csproj", "{1D078FBD-F793-4E77-8120-A9326D70FD60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D078FBD-F793-4E77-8120-A9326D70FD60}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1D078FBD-F793-4E77-8120-A9326D70FD60}.Debug|x86.Build.0 = Debug|Any CPU
+		{1D078FBD-F793-4E77-8120-A9326D70FD60}.Release|x86.ActiveCfg = Release|Any CPU
+		{1D078FBD-F793-4E77-8120-A9326D70FD60}.Release|x86.Build.0 = Release|Any CPU
+		{27273756-49C6-45F5-8BD9-3091533BCA2F}.Debug|x86.ActiveCfg = Debug|x86
+		{27273756-49C6-45F5-8BD9-3091533BCA2F}.Debug|x86.Build.0 = Debug|x86
+		{27273756-49C6-45F5-8BD9-3091533BCA2F}.Release|x86.ActiveCfg = Release|x86
+		{27273756-49C6-45F5-8BD9-3091533BCA2F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

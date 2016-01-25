@@ -1,0 +1,1529 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"display",
+				"display"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"clip",
+				"clip-path"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"gra",
+				"dimgray"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"white",
+				"whitesmoke"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"list-st",
+				"list-style"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"passpo",
+				"passportStrategy"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"produ",
+				"productsController"
+			],
+			[
+				"pla",
+				"players"
+			],
+			[
+				"pro",
+				"property"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"p",
+				"players"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"comp",
+				"comparePlayers"
+			],
+			[
+				"se",
+				"setsWon"
+			],
+			[
+				"plana",
+				"playerName"
+			],
+			[
+				"mat",
+				"matchesWon"
+			],
+			[
+				"getpla",
+				"getPlayers"
+			],
+			[
+				"pl",
+				"playerA"
+			],
+			[
+				"play",
+				"playerA"
+			],
+			[
+				"matsewon",
+				"matchSetsWon"
+			],
+			[
+				"getplayerma",
+				"getPlayerMatchSetsWon"
+			],
+			[
+				"m",
+				"match"
+			],
+			[
+				"getla",
+				"getPlayerMatchGamesWon"
+			],
+			[
+				"getmatchse",
+				"getPlayerMatchSetsWon"
+			],
+			[
+				"set",
+				"setResult"
+			],
+			[
+				"ma",
+				"matches"
+			],
+			[
+				"playe",
+				"playerA"
+			],
+			[
+				"match",
+				"matched"
+			],
+			[
+				"matc",
+				"matched"
+			],
+			[
+				"new",
+				"newPosition"
+			],
+			[
+				"direc",
+				"directions"
+			],
+			[
+				"dire",
+				"direction"
+			],
+			[
+				"diren",
+				"directions"
+			],
+			[
+				"intp",
+				"inputSplit"
+			],
+			[
+				"item",
+				"itemBronze"
+			],
+			[
+				"togg",
+				"toggleEdit"
+			],
+			[
+				"toggl",
+				"toggleProperty"
+			],
+			[
+				"mongojs",
+				"mongojsDb"
+			],
+			[
+				"prod",
+				"productImages"
+			],
+			[
+				"update",
+				"updateCategory"
+			],
+			[
+				"rsvp",
+				"RSVP"
+			],
+			[
+				"tog",
+				"toggleShowAddProduct"
+			],
+			[
+				"re",
+				"resource"
+			],
+			[
+				"child",
+				"childArgs"
+			],
+			[
+				"maint",
+				"maintenanceElement"
+			],
+			[
+				"Mainte",
+				"maintenanceElement"
+			],
+			[
+				"main",
+				"maintenanceElement"
+			],
+			[
+				"maintena",
+				"maintenanceElement"
+			],
+			[
+				"subto",
+				"subtotals"
+			],
+			[
+				"subtota",
+				"subtotal"
+			],
+			[
+				"subot",
+				"subtotals"
+			],
+			[
+				"_cartp",
+				"_cartPricesStr"
+			],
+			[
+				"checkout",
+				"checkout-success"
+			],
+			[
+				"transi",
+				"transitionTo"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"urlhas",
+				"urlHasVariants"
+			],
+			[
+				"onclci",
+				"onclick"
+			],
+			[
+				"Catalog",
+				"CatalogSelectionUP"
+			],
+			[
+				"geteleme",
+				"getElementById"
+			],
+			[
+				"readfi",
+				"fs.readFileSync"
+			],
+			[
+				"exis",
+				"fs.existsSync"
+			],
+			[
+				"downloadI",
+				"downloadImages"
+			],
+			[
+				"sr",
+				"sortedContent"
+			],
+			[
+				"sort",
+				"sortByArrayLength"
+			],
+			[
+				"waiti",
+				"waitingResource"
+			],
+			[
+				"getPro",
+				"getProduct"
+			],
+			[
+				"getpro",
+				"getProduct"
+			],
+			[
+				"getele",
+				"getElementsByTagName"
+			],
+			[
+				"Pro",
+				"ProductDetail"
+			],
+			[
+				"chi",
+				"childArgs"
+			],
+			[
+				"phantom",
+				"phantomjs"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"resul",
+				"resultReady"
+			],
+			[
+				"get",
+				"getProducts"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"f",
+				"filename"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"paylo",
+				"payloadPromise"
+			],
+			[
+				"pare",
+				"parentIndex"
+			],
+			[
+				"parent",
+				"parentLink"
+			],
+			[
+				"exi",
+				"existsInResult"
+			],
+			[
+				"filter",
+				"filteredCars"
+			],
+			[
+				"filte",
+				"filter"
+			],
+			[
+				"keywo",
+				"keyword"
+			],
+			[
+				"sear",
+				"searchWords"
+			],
+			[
+				"load",
+				"loadInProgress"
+			],
+			[
+				"step",
+				"stepIndex"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/node.sublime-build",
+					""
+				],
+				[
+					"Packages/User/phantomjs.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/node.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 294.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"radio",
+				"Snippet: bs3-input-radio"
+			],
+			[
+				"sscss3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssghek",
+				"Set Syntax: Gherkin"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"cucumb",
+				"Gherkin/Cucumber: Format"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssless",
+				"Set Syntax: LESS"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"bsnav",
+				"Snippet: bs3-navbar-responsive"
+			],
+			[
+				"htmltempl",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"bsbutton",
+				"Snippet: bs3-button-primary"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"ssc#",
+				"Set Syntax: C#"
+			],
+			[
+				"ssbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"sspyth",
+				"Set Syntax: Python"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"out",
+				"About"
+			],
+			[
+				"sshandle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"sshbs",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sscof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"input text",
+				"Snippet: bs3-input-text"
+			],
+			[
+				"sshandleba",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"bslabel",
+				"Snippet: bs3-label"
+			],
+			[
+				"btnsucc",
+				"Snippet: bs3-button-success"
+			],
+			[
+				"button",
+				"Snippet: bs3-button-default"
+			],
+			[
+				"col12",
+				"Snippet: bs3-col-12"
+			],
+			[
+				"breadc",
+				"Snippet: bs3-breadcrumbs"
+			],
+			[
+				"bslab",
+				"Snippet: bs3-label"
+			],
+			[
+				"btngrou",
+				"Snippet: bs3-button-group"
+			],
+			[
+				"col2",
+				"Snippet: bs3-col-2"
+			],
+			[
+				"col4",
+				"Snippet: bs3-col-4"
+			],
+			[
+				"thumbna",
+				"Snippet: bs3-thumbnail"
+			],
+			[
+				"bscol4",
+				"Snippet: bs3-col-4"
+			],
+			[
+				"col10",
+				"Snippet: bs3-col-10"
+			],
+			[
+				"bsform",
+				"Snippet: bs3-form"
+			],
+			[
+				"cdn",
+				"Snippet: bs3-cdn"
+			],
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"bssuc",
+				"Snippet: bs3-sm-button-success"
+			],
+			[
+				"handlebars",
+				"Snippet: handlebars template"
+			],
+			[
+				"sssh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"env",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"bscol12",
+				"Snippet: bs3-col-12"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"col6",
+				"Snippet: bs3-col-6"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"bsbtnda",
+				"Snippet: bs3-sm-button-danger"
+			],
+			[
+				"bsnavfix",
+				"Snippet: bs3-navbar-fixed-top"
+			],
+			[
+				"bstable",
+				"Snippet: bs3-table-hover"
+			],
+			[
+				"sspyt",
+				"Set Syntax: Python"
+			],
+			[
+				"uper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"bsrow",
+				"Snippet: bs3-row"
+			],
+			[
+				"label",
+				"Snippet: bs3-label-info"
+			],
+			[
+				"thumb",
+				"Snippet: bs3-thumbnail-content"
+			],
+			[
+				"crumb",
+				"Snippet: bs3-breadcrumbs"
+			],
+			[
+				"bread",
+				"Snippet: bs3-breadcrumbs"
+			],
+			[
+				"bsthumb",
+				"Snippet: bs3-thumbnail-content"
+			],
+			[
+				"header",
+				"Snippet: bs3-page header"
+			],
+			[
+				"each",
+				"Snippet: each(handlebars)"
+			],
+			[
+				"if",
+				"Snippet: if(handlebars)"
+			],
+			[
+				"bs3list",
+				"Snippet: bs3-list-group"
+			],
+			[
+				"bspanel",
+				"Snippet: bs3-panel-table"
+			],
+			[
+				"bs3 panel",
+				"Snippet: bs3-panel"
+			],
+			[
+				"bs3thu",
+				"Snippet: bs3-thumbnail"
+			],
+			[
+				"sshand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"reint",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"bs3con",
+				"Snippet: bs3-container"
+			],
+			[
+				"bscont",
+				"Snippet: bs3-container"
+			],
+			[
+				"bs3 tem",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"refr",
+				"Project: Refresh Folders"
+			],
+			[
+				"jsontre",
+				"JsonTree: Show Tree"
+			],
+			[
+				"ssjavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjava",
+				"Set Syntax: Java"
+			],
+			[
+				"sstext",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sstex",
+				"Set Syntax: TeX"
+			],
+			[
+				"ss jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"instakl",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: con",
+				"Snippet: console.log.js"
+			],
+			[
+				"sshandl",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"ss bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ss c",
+				"Set Syntax: C"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 447.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"font courier new 10 :noantialias",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/alx/.classeur-20e62873bc2bb31f9f16c62603951dd6/webapp.json",
+		"/tmp/mozilla_mozillaUser0/Bangalore University Learning System_Условие.docx",
+		"/home/alx/src/softuni/web-fundamentals-exam/Problem03-Extreme-Reservation/Resources/style.css",
+		"/home/alx/src/softuni/web-fundamentals-exam/Problem03-Extreme-Reservation/Resources/index.html",
+		"/home/alx/src/softuni/web-fundamentals-exam/Problem04-The-Mandarin-Bird/Problem_4_The_Mandarin_Bird.html",
+		"/home/alx/src/softuni/web-fundamentals-exam/Problem04-The-Mandarin-Bird/Problem_4_The_Mandarin_Bird.css",
+		"/home/alx/src/softuni/web-fundamentals-exam/Problem02-Blues-Page/Resources/index.html",
+		"/home/alx/src/softuni/web-fundamentals-exam/Problem02-Blues-Page/Resources/style.css",
+		"/home/alx/src/softuni/web-fundamentals-exam/Problem02-Blues-Page/Resources/text.txt",
+		"/home/alx/src/softuni/web-fundamentals-exam/Problem02-Blues-Page/style.css",
+		"/home/alx/src/softuni/web-fundamentals-exam/Problem02-Blues-Page/index.html",
+		"/home/alx/src/softuni/web-fundamentals-exam/Problem01-Art-Galery/index.html",
+		"/home/alx/src/softuni/web-fundamentals-exam/Problem01-Art-Galery/style.css",
+		"/home/alx/src/softuni/web-fundamentals-exam/template/style.css",
+		"/home/alx/src/softuni/web-fundamentals-exam/template/index.html",
+		"/home/alx/src/softuni/web-fundamentals-preparation/Problem03-Room-Reservation/03.RoomReservation-Resources/code/style.css",
+		"/home/alx/src/softuni/web-fundamentals-preparation/Problem03-Room-Reservation/03.RoomReservation-Resources/code/index.html",
+		"/home/alx/src/softuni/web-fundamentals-preparation/Problem04-Unresponsive-Product-Page/04.UnresponsiveToResponsiveSite-Resources/styles/reset.css",
+		"/home/alx/src/softuni/web-fundamentals-preparation/Problem04-Unresponsive-Product-Page/04.UnresponsiveToResponsiveSite-Resources/styles/04.css",
+		"/home/alx/src/monodeveleop-nunit/dependency_checker.rb",
+		"/tmp/mozilla_mozillaUser0/Web-Fundamentals-Course-Program-Nov-2015.xlsx",
+		"/home/alx/src/softuni/web-fundamentals-preparation/Problem03-Room-Reservation/03.RoomReservation-Resources/Site-Texts.txt",
+		"/home/alx/src/softuni/web-fundamentals-preparation/Problem02-Corporate-Landing-Page/code/style.css",
+		"/home/alx/src/softuni/web-fundamentals-preparation/Problem02-Corporate-Landing-Page/code/Site-Texts.txt",
+		"/home/alx/src/softuni/web-fundamentals-preparation/Problem02-Corporate-Landing-Page/code/index.html",
+		"/home/alx/src/softuni/web-fundamentals-preparation/Problem01-Pricing-List/code/style.css",
+		"/home/alx/src/softuni/web-fundamentals-preparation/Problem01-Pricing-List/01.PricingList-Resources/Site-Texts.txt",
+		"/home/alx/src/softuni/web-fundamentals-preparation/Problem01-Pricing-List/code/index.html",
+		"/home/alx/src/gherkin3/testdata/good/datatables.feature",
+		"/home/alx/src/gherkin3/testdata/good/datatables.feature.ast.json",
+		"/home/alx/src/cucumber-code/try-this/invoice.feature",
+		"/home/alx/src/microcuke/bin/cucumber",
+		"/home/alx/src/microcuke/lib/cucumber/pickle_loader.js",
+		"/home/alx/src/microcuke/lib/cucumber/sequential_test_case_executor.js",
+		"/home/alx/src/microcuke/lib/cucumber/pretty_plugin.js",
+		"/home/alx/src/microcuke/docs/classes.png",
+		"/home/alx/src/microcuke/lib/cucumber/glue_loader.js",
+		"/home/alx/src/microcuke/features/glue/glue.js",
+		"/home/alx/src/microcuke/package.json",
+		"/home/alx/src/microcuke/lib/cucumber/glue.js",
+		"/home/alx/src/microcuke/features/hello.feature",
+		"/home/alx/Documents/.sgs/motivi/belejki_po_motivite.txt",
+		"/home/alx/Documents/Modern_Java_EE_Design_Patterns_Red_Hat.pdf",
+		"/home/alx/Documents/.sgs/motivi/2015.12.09_Мотиви.txt",
+		"/home/alx/src/tesseract/configure",
+		"/home/alx/src/tesseract/Makefile.in",
+		"/home/alx/src/cucumber-code/first_taste/calculator/features/adding.feature",
+		"/home/alx/src/cucumber-code/first_bite/calculator/features/adding.feature",
+		"/home/alx/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/alx/src/cucumber-code/gherkin_basics/comments_example.feature",
+		"/home/alx/Documents/.sgs/molba_snemane_zabrana_patuvane.txt",
+		"/home/alx/wakatime-master/tests/samples/codefiles/php.php",
+		"/home/alx/Downloads/setup_tbfree7_1_2_12_7.B20141128104218-linux-x86_64.sh",
+		"/home/alx/src/ebay.net921/eBay.Service.SDK.Attribute.xml",
+		"/home/alx/elasticsearch-nodes/bin/start-all-nodes.sh",
+		"/home/alx/src/winwebapi/Global.asax",
+		"/home/alx/Downloads/thrift-0.9.2/tutorial/gen-csharp/Constants.cs",
+		"/home/alx/src/winwebapi/bin/System.Web.WebPages.xml",
+		"/home/alx/elasticsearch-nodes/node1/data/elasticsearch/nodes/0/indices/users/1/index/_0.cfs",
+		"/home/alx/elasticsearch-nodes/user-data.json",
+		"/home/alx/elasticsearch-nodes/accounts.json",
+		"/home/alx/elasticsearch-nodes/bin/exec.sh",
+		"/home/alx/src/mono-server-setup/README.md",
+		"/home/alx/src/tikarash.com/app.js",
+		"/home/alx/src/angularjs/products.html",
+		"/home/alx/src/mean/packages/core/articles/server/models/article.js",
+		"/home/alx/src/mean/node_modules/meanio/lib/core_modules/module/index.js",
+		"/home/alx/src/mean/packages/custom/products/public/routes/products.js",
+		"/home/alx/src/mean/packages/custom/products/app.js",
+		"/home/alx/src/mean/packages/core/articles/server/controllers/articles.js",
+		"/home/alx/src/mean/packages/custom/products/server/routes/products.js",
+		"/home/alx/src/mean/karma.conf.js",
+		"/home/alx/src/mean/packages/custom/products/public/views/index.html",
+		"/home/alx/src/mean/packages/custom/products/server/views/index.html",
+		"/home/alx/src/mean/packages/custom/products/public/views/featured.html",
+		"/home/alx/src/mean/packages/custom/products/public/controllers/products.js",
+		"/home/alx/src/mean/packages/custom/products/public/controllers/featured.js",
+		"/home/alx/src/mean/packages/custom/products/server/views/featured.html",
+		"/home/alx/src/mean/packages/custom/products/server/controllers/products.js",
+		"/home/alx/src/mean/packages/custom/products/server/views/example.html",
+		"/home/alx/src/mean/packages/core/articles/public/controllers/articles.js",
+		"/home/alx/src/mean/server.js",
+		"/home/alx/src/mean/packages/contrib/comments/app.js",
+		"/home/alx/src/mean/packages/contrib/comments/package.json",
+		"/home/alx/.local/share/nautilus/scripts/Open folder in Sublime",
+		"/home/alx/src/shop/client/node_modules/ember-bootstrap/index.js",
+		"/home/alx/src/shop/client/node_modules/ember-bootstrap/app/initializers/load-bootstrap-config.js",
+		"/home/alx/src/shop/client/Brocfile.js",
+		"/home/alx/src/shop/client/app/styles/app.less",
+		"/home/alx/src/shop/client/node_modules/ember-bootstrap/app/templates/components/bs-button.hbs",
+		"/home/alx/src/shop/client/node_modules/ember-bootstrap/app/components/bs-button.js",
+		"/home/alx/src/shop/client/node_modules/ember-bootstrap/app/components/bs-form-element.js",
+		"/home/alx/src/shop/client/node_modules/ember-bootstrap/app/components/bs-dropdown-menu.js",
+		"/home/alx/src/shop/client/node_modules/ember-bootstrap/app/components/bs-dropdown-toggle.js",
+		"/home/alx/src/shop/client/node_modules/ember-bootstrap/config/environment.js",
+		"/home/alx/src/shop/client/node_modules/ember-bootstrap/blueprints/ember-bootstrap/index.js",
+		"/home/alx/Documents/company-names.txt",
+		"/home/alx/src/shop/client/app/templates/application.hbs",
+		"/home/alx/src/shop/client/dist/index.html",
+		"/home/alx/src/shop/client/bower_components/bootstrap/less/bootstrap.less",
+		"/home/alx/src/shop/client/bower_components/bootstrap/dist/css/bootstrap.css",
+		"/home/alx/src/shop/client/bower_components/bootstrap/dist/css/bootstrap.css.map",
+		"/home/alx/src/shop/client/bower_components/bootstrap/dist/js/bootstrap.js",
+		"/home/alx/src/shop/client/bower_components/bootstrap/dist/js/npm.js",
+		"/home/alx/src/daidakaram/client/coffee/data/RequestDefinitions.coffee",
+		"/home/alx/src/daidakaram/client/templates/dev.hbs",
+		"/home/alx/src/daidakaram/client/coffee/IndexRoute.coffee",
+		"/home/alx/src/daidakaram/client/templates/index.hbs",
+		"/home/alx/src/daidakaram/client/coffee/SessionService.coffee",
+		"/home/alx/src/daidakaram/client/coffee/Application.coffee",
+		"/home/alx/src/daidakaram/client/coffee/DevView.coffee",
+		"/home/alx/src/daidakaram/server/routes/users.js",
+		"/home/alx/src/daidakaram/client/coffee/ApplicationController.coffee",
+		"/home/alx/src/Social-Network-Solution/scripts/app.js",
+		"/home/alx/.config/sublime-text-3/Packages/User/console.log.js.sublime-snippet",
+		"/home/alx/src/watchman/fstype.c",
+		"/home/alx/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/alx/src/ember-cli-project/app/app.js",
+		"/home/alx/src/ember-cli-project/config/environment.js",
+		"/home/alx/src/ember-cli-project/app/services/session.js",
+		"/home/alx/src/ember-cli-project/app/routes/application.js",
+		"/home/alx/src/ember-cli-project/dist/assets/ember-cli-project-7617e3651398772e378fe3136c27649d.js",
+		"/home/alx/src/WCF/README.md",
+		"/home/alx/src/ember-cli-project/app/initializers/session.js",
+		"/home/alx/src/ember-cli-project/app/router.js",
+		"/home/alx/src/mono-server-setup/fastcgi-server.sh",
+		"/home/alx/src/mono-server-setup/nginx-virtual-site",
+		"/home/alx/src/mono-server-setup/fastcgi_params.sh"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/alx/src/microcuke/lib/cucumber",
+			"",
+			"/home/alx/src/mean/packages/custom/products",
+			"",
+			"/home/alx/Desktop/bulgarian",
+			"/home/alx/Desktop/bulgarian_greshen",
+			"",
+			"/home/alx/Downloads/bulgarian",
+			"/home/alx/src/opencart/upload/catalog/view/theme",
+			"/home/alx/src/autogroup/client/templates",
+			"",
+			"/home/alx/src/autogroup/client/templates",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"4",
+			"name",
+			"before",
+			"climbing",
+			"display:",
+			"style",
+			"header",
+			"'",
+			"<div class=\"tile\"></div>",
+			"tile",
+			"placeholde",
+			"15px",
+			"1",
+			"2",
+			"myriad",
+			"display: block;",
+			"span",
+			"text-align",
+			"left",
+			"div",
+			"span",
+			"200",
+			"13",
+			"1000px",
+			"20",
+			"»",
+			"”",
+			"<div class=\"box-content\">",
+			"<section >",
+			"class=\"box\"",
+			"<section>",
+			"<div class=\"box\">",
+			"<button>Purchase now</button>",
+			"main",
+			"button>Purchase now</button>",
+			"SequentialTestCaseExecutor",
+			"reader",
+			"rader",
+			"sourceReader",
+			"source",
+			"source_reader",
+			"Given",
+			"Given(",
+			"function Given",
+			"reader",
+			"leptonica",
+			"feature_file_directories",
+			"version",
+			">",
+			"/>",
+			"<",
+			"render",
+			"static",
+			"2",
+			"mainController",
+			"http://localhost:3000/api/auth/twitter/callback",
+			"phantom",
+			"products example page",
+			"app.",
+			"js",
+			"pickFiles",
+			"css",
+			" ",
+			"api:",
+			"cateories",
+			"tecdoc",
+			"phantom",
+			"Common.Tests",
+			"serviceTool(",
+			"Поздравления:",
+			"Поздравления",
+			"Поръчката ви беше успешно обработена",
+			"Свалени",
+			"Сваление",
+			"количество",
+			"Продуктов код",
+			"оценка",
+			"приблизи",
+			"е празна",
+			"поздравления",
+			"поздрав",
+			"карта",
+			"в карта",
+			"подготв",
+			"пратка",
+			"подготви",
+			"Поръчката ви беше успешно обработена",
+			"Приблизителна оценка на прод",
+			"Delivery Information",
+			"Поздравления: Начинът за плащане беше определен",
+			"Object.keys(player)",
+			"gamesWon",
+			"-1",
+			"setsWon",
+			"players",
+			"getPlayers",
+			"playerA",
+			"console",
+			"getPlayerMatchGamesWon",
+			"getSetResult",
+			"getPlayerMatchSetsWon",
+			"winner",
+			"getSetWinner",
+			"getMatchWinner",
+			"0",
+			"this",
+			"con",
+			"\\w+",
+			",",
+			",'",
+			"results.stats['wall hits']++;",
+			"console.log",
+			"position",
+			"stats",
+			"eatVegetables",
+			"field",
+			"position",
+			"Width",
+			"field",
+			"directions",
+			"problem2",
+			".y",
+			"{",
+			"\\n",
+			"inputSplit",
+			"gold",
+			"item",
+			"input"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"",
+			"Успех:",
+			"",
+			",\\n",
+			",'\\n",
+			"\\t",
+			"",
+			"daidakaram",
+			"model",
+			"",
+			"\\t",
+			"$11",
+			"\\11",
+			"\\\\11",
+			"",
+			";",
+			" ",
+			"-"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 302.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 235.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "cucunet.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"picleload",
+				"lib/cucumber/pickle_loader.js"
+			],
+			[
+				"glueload",
+				"lib/cucumber/glue_loader.js"
+			],
+			[
+				"karmaconf",
+				"karma.conf.js"
+			],
+			[
+				"applcof",
+				"client/coffee/Application.coffee"
+			],
+			[
+				"appcontro",
+				"client/coffee/ApplicationController.coffee"
+			],
+			[
+				"catroute",
+				"coffee/CategoryRoute.coffee"
+			],
+			[
+				"assetsindex",
+				"assets/index.coffee"
+			],
+			[
+				"cms.ade",
+				"inplace/includes/cms.jade"
+			],
+			[
+				"dispindex",
+				"dispatcher/index.coffee"
+			],
+			[
+				"indexf",
+				"index.coffee"
+			],
+			[
+				"servercof",
+				"server.coffee"
+			],
+			[
+				"orderinfo",
+				"upload/admin/view/template/sale/order_info.tpl"
+			],
+			[
+				"orderinfotpl",
+				"upload/catalog/view/theme/ddk/template/account/order_info.tpl"
+			],
+			[
+				"acountorder",
+				"upload/catalog/controller/account/order.php"
+			],
+			[
+				"accountorder",
+				"bulgarian/account/order.php"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"envi",
+				"config/environment.js"
+			],
+			[
+				"edit",
+				"app/components/edit-text.js"
+			],
+			[
+				"apphbs",
+				"client/templates/application.hbs"
+			],
+			[
+				"controllerheader",
+				"install/controller/header.php"
+			],
+			[
+				"menu",
+				"admin/controller/common/menu.php"
+			],
+			[
+				"headertpl",
+				"catalog/view/theme/ddk/template/common/header.tpl"
+			],
+			[
+				"header",
+				"install/controller/header.php"
+			],
+			[
+				"module",
+				"admin/controller/extension/module.php"
+			],
+			[
+				"reque",
+				"client/coffee/data/RequestDefinitions.coffee"
+			],
+			[
+				"procon",
+				"client/coffee/ProductController.coffee"
+			],
+			[
+				"less",
+				"client/less/style.less"
+			],
+			[
+				"prod",
+				"client/templates/product.hbs"
+			],
+			[
+				"categcon",
+				"client/coffee/CategoryController.coffee"
+			],
+			[
+				"categoryhbs",
+				"client/templates/category.hbs"
+			],
+			[
+				"route",
+				"client/coffee/Router.coffee"
+			],
+			[
+				"hbs",
+				"client/templates/category.hbs"
+			],
+			[
+				"ca",
+				"client/templates/category.hbs"
+			],
+			[
+				"appjs",
+				"server/app.js"
+			],
+			[
+				"cathbs",
+				"client/templates/category.hbs"
+			],
+			[
+				"reqcof",
+				"client/coffee/data/RequestDefinitions.coffee"
+			],
+			[
+				"categocon",
+				"client/coffee/CategoryController.coffee"
+			],
+			[
+				"produ",
+				"server/routes/products.js"
+			],
+			[
+				"catalo",
+				"server/domain/catalog.js"
+			],
+			[
+				"categocontr",
+				"client/coffee/CategoryController.coffee"
+			],
+			[
+				"catcon",
+				"client/coffee/CartController.coffee"
+			],
+			[
+				"panel",
+				"client/templates/category-panel.hbs"
+			],
+			[
+				"router",
+				"client/coffee/Router.coffee"
+			],
+			[
+				"resjs",
+				"server/routes/resource.js"
+			],
+			[
+				"akres",
+				"server/lib/phantomjs/getAkResource.js"
+			],
+			[
+				"urlbuild",
+				"server/lib/ak-url-builder.js"
+			],
+			[
+				"todo",
+				"client/TODO.txt"
+			],
+			[
+				"akresjs",
+				"server/lib/phantomjs/getAkResource.js"
+			],
+			[
+				"grunt",
+				"client/Gruntfile.coffee"
+			],
+			[
+				"navbar",
+				"client/templates/navbar.hbs"
+			],
+			[
+				"gitignore",
+				".gitignore"
+			],
+			[
+				"index",
+				"client/templates/index.hbs"
+			],
+			[
+				"stylele",
+				"client/less/style.less"
+			],
+			[
+				"carthbs",
+				"client/templates/cart.hbs"
+			],
+			[
+				"styleless",
+				"client/less/style.less"
+			],
+			[
+				"reshbs",
+				"client/templates/ak-resource/resource.hbs"
+			],
+			[
+				"getakres",
+				"server/lib/phantomjs/getAkResource.js"
+			],
+			[
+				"bowejson",
+				"bower.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"chunk",
+				"Chunker"
+			]
+		],
+		"width": 707.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

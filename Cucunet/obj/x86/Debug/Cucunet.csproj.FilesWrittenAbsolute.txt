@@ -1,0 +1,8 @@
+/home/alx/src/Cucunet/Cucunet/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alx/src/Cucunet/Cucunet/bin/Debug/Cucunet.exe.mdb
+/home/alx/src/Cucunet/Cucunet/bin/Debug/Cucunet.exe
+/home/alx/src/Cucunet/Cucunet/obj/x86/Debug/Cucunet.exe
+/home/alx/src/Cucunet/Cucunet/obj/x86/Debug/Cucunet.exe.mdb
+/home/alx/src/Cucunet/Cucunet/bin/Debug/Gherkin.dll
+/home/alx/src/Cucunet/Cucunet/bin/Debug/Gherkin.AstGenerator.exe
+/home/alx/src/Cucunet/Cucunet/bin/Debug/Newtonsoft.Json.dll

@@ -1,0 +1,14 @@
+/home/alx/src/Cucunet/Cucunet.Tests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alx/src/Cucunet/Cucunet.Tests/bin/Debug/root.feature
+/home/alx/src/Cucunet/Cucunet.Tests/bin/Debug/FeatureFiles/other-features/even-more-features/divison.feature
+/home/alx/src/Cucunet/Cucunet.Tests/bin/Debug/FeatureFiles/other-features/root_extraction.feature
+/home/alx/src/Cucunet/Cucunet.Tests/bin/Debug/FeatureFiles/subtract.feature
+/home/alx/src/Cucunet/Cucunet.Tests/bin/Debug/Cucunet.Tests.dll.mdb
+/home/alx/src/Cucunet/Cucunet.Tests/bin/Debug/Cucunet.Tests.dll
+/home/alx/src/Cucunet/Cucunet.Tests/obj/Debug/Cucunet.Tests.dll
+/home/alx/src/Cucunet/Cucunet.Tests/obj/Debug/Cucunet.Tests.dll.mdb
+/home/alx/src/Cucunet/Cucunet.Tests/bin/Debug/nunit.framework.dll
+/home/alx/src/Cucunet/Cucunet.Tests/bin/Debug/Gherkin.dll
+/home/alx/src/Cucunet/Cucunet.Tests/bin/Debug/Moq.dll
+/home/alx/src/Cucunet/Cucunet.Tests/bin/Debug/Cucunet.exe
+/home/alx/src/Cucunet/Cucunet.Tests/bin/Debug/Cucunet.exe.mdb
